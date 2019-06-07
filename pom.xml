@@ -5,7 +5,11 @@
 
     <groupId>com.bubble</groupId>
     <artifactId>rx-java</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>exercises</module>
+    </modules>
 
     <name>RxJava</name>
     <!-- FIXME change it to the project's website -->
